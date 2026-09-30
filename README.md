@@ -5,8 +5,8 @@
 
 [![AI Operational Engine](https://img.shields.io/badge/Aliwabot-Core_Engine-00C853?style=for-the-badge&logo=probot&logoColor=white)](#-the-aliwabot-engine-architecture)
 [![Data Sovereignty](https://img.shields.io/badge/Privacy-100%25_Private_%26_On--Premise-7C4DFF?style=for-the-badge&logo=shield&logoColor=white)](#-enterprise-privacy--data-sovereignty)
-[![Zero Meta Fees](https://img.shields.io/badge/Messaging-Zero_Per--Message_Fees-00B0FF?style=for-the-badge&logo=whatsapp&logoColor=white)](#-the-commercial-math--as-a-service-roi)
-[![Multi-Industry](https://img.shields.io/badge/Operations-Multi--Sector_Ready-FF6D00?style=for-the-badge)](#-24-hours-in-the-life-of-an-aliwabot-powered-operation)
+[![Zero Meta Fees](https://img.shields.io/badge/Messaging-Zero_Per--Message_Fees-00B0FF?style=for-the-badge&logo=whatsapp&logoColor=white)](#-act-vii-the-commercial-math--as-a-service-roi)
+[![Modular Plugins](https://img.shields.io/badge/Plugins-Modular_Per--Group-FF6D00?style=for-the-badge)](#-the-modular-plugin-architecture)
 
 <br/>
 
@@ -19,13 +19,14 @@
 
 ---
 
-[The Global Reality](#-act-i-the-33-billion-market-reality) • 
+[Market Stats](#-act-i-the-33-billion-market-reality) • 
 [The 7:45 AM Breakdown](#-act-ii-the-745-am-breakdown) • 
-[The Transformation](#-act-iii-the-transformation--before-vs-after) • 
-[24-Hour Walkthrough](#-act-iv-24-hours-in-the-life-of-an-aliwabot-powered-operation) • 
-[Industry Deep Dive](#-act-v-deep-dive-across-5-operational-frontlines) • 
-[Architecture](#-act-vi-the-aliwabot-engine-architecture) • 
-[Commercial ROI](#-act-vii-the-commercial-math--as-a-service-roi) • 
+[The Two Killer Superpowers](#-act-iii-the-two-killer-superpowers-transcript-search--enterprise-knowledge-base) • 
+[Modular Plugin System](#-act-iv-the-modular-plug-and-play-plugin-architecture) • 
+[24-Hour Walkthrough](#-act-v-24-hours-in-the-life-of-an-aliwabot-powered-operation) • 
+[Industry Deep Dive](#-act-vi-deep-dive-across-5-operational-frontlines) • 
+[Architecture](#-act-vii-the-aliwabot-engine-architecture) • 
+[Commercial ROI](#-act-viii-the-commercial-math--as-a-service-roi) • 
 [Command Suite](#-command-suite)
 
 ---
@@ -74,8 +75,8 @@ Every operations manager, site superintendent, and business owner knows this exa
 > **It’s 7:45 AM. Your phone is already vibrating across your desk with 349 unread messages across 14 different WhatsApp workgroups.**
 
 * A warehouse forklift operator drops a photo of crumpled boxes: *"Received Bay 3, some damaged."* No item SKU, no quantity, no timestamp.
-* A crane operator on the 24th floor asks: *"Can we lift the rebar bundle or is the thunderstorm hitting site in 15 mins?"*
-* A property tenant sends a blurry photo of a leaking ceiling pipe with no location tag.
+* A duty building technician reports an error code on a 20-ton chiller without knowing the reset procedure.
+* A client claims they never approved a $4,200 change order that was discussed in the group three months ago.
 * A cross-border supplier messages in Vietnamese asking for payment confirmation, while your finance manager is calculating exchange rates in Excel.
 * A developer dumps a 60-line terminal stack trace into the tech chat during an outage.
 
@@ -106,45 +107,90 @@ Every operations manager, site superintendent, and business owner knows this exa
 
 ---
 
-## 🔄 Act III: The Transformation — Before vs. After
+## 🔍 Act III: The Two Killer Superpowers — Transcript Search & Enterprise Knowledge Base
 
-What happens when you stop fighting human nature and embed an intelligent operational brain directly inside your existing WhatsApp groups?
+Instead of forcing your staff into another complex software tool, Aliwabot equips your WhatsApp groups with two enterprise capabilities that eliminate operational friction:
 
-![Before vs After Aliwabot Transformation](assets/before_after_transformation.jpg)
+![Deep Chat Transcript Search and Enterprise Knowledge Base in WhatsApp](assets/knowledge_base_transcript_search.jpg)
 
 <br/>
 
-| Operational Challenge | ❌ Without Aliwabot (The WhatsApp Trap) | ✅ With Aliwabot (The Intelligent Hub) |
-| :--- | :--- | :--- |
-| **Shift Information** | 350+ unorganized chat bubbles; key updates buried | **Structured AI digests** generated automatically on schedule |
-| **Stock Tracking** | Hours spent scrolling chat history to reconcile inventory | Single natural language query outputs a **clean movement table** |
-| **Delivery Receipts** | Paper dockets lost in the mud or buried in camera rolls | Smartphone photos instantly converted to **digital text via OCR** |
-| **Site Weather Safety** | Guesswork and generic phone weather apps | **High-resolution rain radar map snapshots** directly in chat |
-| **Task Ownership** | Unacknowledged messages; masked `@lid` phone numbers | Resolves identities and triggers **audible native `@mentions`** |
-| **Corporate Privacy** | Customer photos stored unencrypted on personal phones | **Encrypted local storage** with full on-premise data control |
+### 1. 🗄️ Deep Chat Transcript Search & Audit Trail
+WhatsApp's built-in search is primitive: it only finds exact keyword matches on your local phone, fails completely if a teammate used a slightly different word, and shows nothing if you joined the group after the message was sent.
+
+Aliwabot changes the game by maintaining an **auditable, semantic history graph** across your operational groups:
+* **Natural Language Historical Querying**: Ask questions across 6+ months of messy chat history:
+  * *"When did Apex Dynamics agree to replace the faulty batch of pressure valves?"*  
+    $\rightarrow$ **Found:** June 14, 10:22 AM, confirmed by `@David_Apex`.
+  * *"What was the agreed price quote for the 500m armored cable?"*  
+    $\rightarrow$ **Found:** $4.20/meter, quoted by `@Sarah_Procurement` on July 3.
+  * *"List all site incidents reported in Building B during August."*  
+    $\rightarrow$ **Found:** 3 incidents (pipe leak Aug 4, tripping breaker Aug 12, gate sensor Aug 28).
+* **Legal-Grade Audit Exports**: When a dispute, insurance claim, or contractor audit arises, export a complete timestamped transcript with media deduplication in one command.
 
 ---
 
-## ⏱️ Act IV: 24 Hours in the Life of an Aliwabot-Powered Operation
+### 2. 📚 Enterprise Knowledge Base (Local RAG) Inside WhatsApp
+Frontline workers lose hours waiting for senior engineers or managers to answer repetitive technical questions—or worse, they guess and break expensive equipment.
 
-Here is how Aliwabot quietly powers an entire enterprise's daily operational cycle without anyone ever leaving WhatsApp:
+Aliwabot turns your WhatsApp chat into a **24/7 technical expert** by ingesting your company's actual documentation:
+* **Feed in Hundreds of Pages of Internal Documentation**: Upload PDF equipment operation manuals, mechanical blueprints, electrical schematics, company HR/HSE policies, and Standard Operating Procedures (SOPs).
+* **Instant, Verified Citations Directly in Chat**: A field technician on site asks:  
+  `@Aliwabot the turbine pressure valve is showing error code E-403 after maintenance. What is the reset procedure and specific bolt torque?`  
+  Aliwabot cross-references your uploaded technical manuals in 2 seconds and responds:  
+  `📖 Verified Technical Response (via SOP-305 & Equipment Manual pg. 118):`<br/>
+  `• E-403 indicates a pressure transducer calibration error.`<br/>
+  `• Step 1: Execute manual valve reset (see SOP-305, pg. 42).`<br/>
+  `• Step 2: Ensure main bolt assembly is torqued to 85 Nm +/- 5 Nm (Equipment Manual, pg. 118).`
+* **Zero Hallucination Guarantee**: If the answer is not in your verified technical library, the engine states it clearly rather than guessing.
+
+---
+
+## 🧩 Act IV: The Modular Plug-and-Play Plugin Architecture
+
+No two departments work the same way. A logistics group needs stock reconciliation and delivery order OCR, while a procurement group needs currency conversions and supplier catalog lookup.
+
+Aliwabot features an **enterprise modular plugin architecture** that allows group administrators to toggle specific skill modules on or off **at the individual group level**:
+
+![Modular Plug-and-Play Plugin Architecture for Enterprise WhatsApp Groups](assets/modular_plugin_architecture.jpg)
+
+<br/>
+
+### Granular Group-Level Module Control:
+| Operational Group | Activated Skill Modules | Operational Purpose |
+| :--- | :--- | :--- |
+| **🚚 Logistics & Warehouse Group** | `transcript_search` + `ocr_extract` + `inventory_sync` | Reconcile daily stock in/out, extract delivery dockets, track fleet movements. |
+| **🔧 Field Engineering & Maintenance** | `knowledge_base` + `incident_tracker` + `transcript_search` | Equipment manual lookup, photo-to-defect logging, emergency SOP citations. |
+| **🛒 Procurement & Sourcing Group** | `currency_fx` + `knowledge_base` + `ocr_extract` | Live 160+ currency spot rates, payment slip verification, supplier catalog queries. |
+| **🏗️ On-Site Construction Group** | `ocr_extract` + `weather_radar` + `transcript_search` | Concrete batch ticket OCR, rain radar safety alerts, subcontractor accountability. |
+
+* **Zero Bloat**: Enable only what a specific team needs with simple chat commands:  
+  `!plugin enable ocr` • `!plugin disable fx` • `!plugin status`
+
+---
+
+## ⏱️ Act V: 24 Hours in the Life of an Aliwabot-Powered Operation
+
+Here is how Aliwabot powers an enterprise's daily operational rhythm across multiple departments without anyone ever leaving WhatsApp:
 
 ![24-Hour Operational Timeline](assets/day_in_the_life_timeline.jpg)
 
 <br/>
 
-### 🌅 07:30 AM — The Job Site: Meteorological Safety Gate
-* **The Situation**: A 40-ton mobile crane is scheduled to lift precast concrete slabs at the downtown job site. Dark clouds are gathering on the horizon.
-* **The Action**: The site engineer types in the group:  
-  `!weather site radar`
-* **The Result**: In 2 seconds, Aliwabot replies with a live meteorological rain radar map snapshot and a 2-hour localized precipitation forecast:  
-  `⚠️ Rain Alert: Heavy convective rain band 8 km southwest, moving at 22 km/h. Estimated site arrival: 08:15 AM. Wind gusts: 34 km/h (Exceeds crane threshold of 30 km/h). Recommendation: Hold lifting operations until 09:30 AM.`  
-  *Value Delivered: Averted a dangerous crane lift in high winds and avoided a $12,000 damaged concrete slab.*
+### 🌅 07:30 AM — The Engineering Site: Technical Briefing & SOP Lookup
+* **The Situation**: Technicians are preparing to service a 500kVA backup diesel generator before a hospital power changeover.
+* **The Action**: The lead technician asks the group:  
+  `@Aliwabot what is the pre-start oil pressure threshold and priming sequence for Generator Set G-02?`
+* **The Result**: In 2 seconds, Aliwabot cites the OEM technical manual:  
+  `📖 Generator G-02 Pre-Start Protocol (O&M Manual Sec. 4.2):`<br/>
+  `• Minimum oil pressure: 280 kPa at idle.`<br/>
+  `• Priming sequence: Activate auxiliary fuel pump for 30s until return line sight glass is bubble-free.`  
+  *Value Delivered: 100% compliance with manufacturer safety specifications; zero guessing.*
 
 ---
 
-### 📦 10:15 AM — The Warehouse: Delivery Docket & Mill Cert OCR
-* **The Situation**: A haulage truck arrives at Bay 4 carrying 18 steel structural beams. The driver hands a grease-stained physical Delivery Order (DO) to the forklift driver.
+### 📦 10:15 AM — The Warehouse: Delivery Docket & Slip OCR
+* **The Situation**: A haulage truck arrives at Bay 4 carrying 18 steel structural beams. The driver hands a physical Delivery Order (DO) to the forklift driver.
 * **The Action**: The forklift driver snaps a photo with his phone and posts it to the warehouse WhatsApp group.
 * **The Result**: Aliwabot's vision engine instantly scans the image and posts a verified receipt card:  
   `📄 Delivery Docket Verified [DO-99214]:`<br/>
@@ -190,7 +236,7 @@ Here is how Aliwabot quietly powers an entire enterprise's daily operational cyc
 
 ---
 
-## 🏭 Act V: Deep Dive Across 5 Operational Frontlines
+## 🏭 Act VI: Deep Dive Across 5 Operational Frontlines
 
 ![Aliwabot Enterprise Feature Overview](assets/features_infographic.jpg)
 
@@ -225,13 +271,13 @@ Here is how Aliwabot quietly powers an entire enterprise's daily operational cyc
 ---
 
 ### 🏗️ 5. Construction Sites & Civil Engineering Projects
-* **Live Rain Radar Map & Lifting Safety Gates (`!weather`)**: Direct radar map snapshots and localized precipitation forecasts in the site group before authorizing concrete pours or crane hoisting.
 * **Concrete Batch Ticket & Slump Test OCR**: Instant data extraction from batch plant delivery dockets (batch time, concrete grade, slump, volume in m³) as the mixer arrives at the site gate.
 * **Subcontractor Accountability**: The engine maps contractor identities even when WhatsApp masks their phone numbers, ensuring every instruction has a permanent paper trail.
+* **Weather & Environmental Safety Gates (`!weather`)**: Optional rain radar map snapshots and localized precipitation forecasts for outdoor work safety.
 
 ---
 
-## 📐 Act VI: The Aliwabot Engine Architecture
+## 📐 Act VII: The Aliwabot Engine Architecture
 
 Aliwabot is built as an enterprise-grade, event-driven operational intelligence platform designed for absolute confidentiality, speed, and reliability.
 
@@ -255,11 +301,11 @@ flowchart TB
         end
 
         subgraph Skill_Matrix ["🛠️ Autonomous Operational Skill Matrix™"]
+            SkillKB["Enterprise Knowledge Base\n(Instant SOP & Manual Citations)"]
+            SkillTranscript["Deep Transcript Search & Audit\n(Natural Language Chat History)"]
             SkillOCR["Multimodal Vision OCR Engine\n(Invoices, Slips, Meter Readings)"]
-            SkillWeather["Meteorological Radar Engine\n(Live Maps & Rain Gates)"]
-            SkillFX["Foreign Exchange Engine\n(160+ Real-Time Currencies)"]
-            SkillWeb["Autonomous Web Intelligence\n(Deep Research & Verification)"]
             SkillSynthesis["Timeline & Log Synthesizer\n(Stock & Incident Summaries)"]
+            SkillFX["Foreign Exchange Engine\n(160+ Real-Time Currencies)"]
         end
     end
 
@@ -294,13 +340,13 @@ flowchart TB
 
 ---
 
-## 💼 Act VII: The Commercial Math & "As-a-Service" ROI
+## 💼 Act VIII: The Commercial Math & "As-a-Service" ROI
 
 Investing in Aliwabot delivers immediate, measurable bottom-line returns:
 
 ### 1. Hard Return on Investment (ROI)
 * **Supervisor Administrative Savings**: Eliminating 10–15 hours weekly spent manually transcribing and compiling chat reports saves an estimated **$1,200 to $2,000 per supervisor monthly**.
-* **Dispute & Rejected Material Prevention**: In logistics and construction, a single disputed delivery docket or rejected concrete batch costs **$1,500 to $5,000**. Having a permanent, timestamped OCR log in WhatsApp eliminates disputes before they escalate.
+* **Dispute & Rejected Material Prevention**: In logistics and construction, a single disputed delivery docket or rejected batch costs **$1,500 to $5,000**. Having a permanent, timestamped OCR log in WhatsApp eliminates disputes before they escalate.
 * **Zero Software Training Costs**: 100% of employees already know how to use WhatsApp. Zero budget spent on software onboarding, user licenses, or adoption training.
 
 ### 2. Commercial Packaging Models
@@ -324,13 +370,13 @@ Investing in Aliwabot delivers immediate, measurable bottom-line returns:
 
 | Command | Usage | Description |
 | :--- | :--- | :--- |
+| `!kb` | `!kb query <question>` | Queries your uploaded technical SOPs, equipment manuals, and blueprints. |
 | `!summary` | `!summary [shift\|bay3\|truck12]` | Reconstructs conversation history into a structured operational digest. |
-| `!weather` | `!weather [location] [radar]` | High-resolution rain radar map snapshot, 2-hr forecast, and wind alerts. |
 | `!ocr` | `!ocr` *(reply to photo)* | Extracts verbatim text and numbers from delivery dockets, slips, or serial tags. |
+| `!plugin` | `!plugin [enable\|disable] <name>` | Toggles modular skills on/off per chat group. |
+| `!history`| `!history [stats\|search\|purge]` | Inspects encrypted media archives and audit trail retention policies. |
 | `!fx` | `!fx <amount> <from> to <to>` | Live currency spot rate conversion across 160+ fiat currencies. |
 | `!s` | `!s <query>` | Deep web research for port notices, customs tariffs, or technical datasheets. |
-| `!url` | `!url <link>` | Synthesizes technical articles, supplier catalogs, or regulatory updates. |
-| `!history`| `!history [stats\|purge]` | Inspects encrypted media archives and audit trail retention policies. |
 | `!tools` | `!tools [on\|off]` | Enables autonomous multi-step tool execution in the group. |
 | `!flush` | `!flush context` | Clears short-term conversational context to reset discussion focus. |
 | `!help`  | `!help` | Dynamic menu showing all active operational skills. |
