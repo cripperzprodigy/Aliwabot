@@ -161,7 +161,7 @@ Paper delivery orders, handwritten slips, and equipment tags are the lifeblood o
 
 ### How It Works in WhatsApp:
 1. **Snap & Send**: Any team member takes a smartphone photo of a physical delivery order, crumpled weighbridge ticket, or equipment serial plate and posts it to the group.
-2. **Instant Optical Extraction**: Powered by pluggable optical vision models (including local air-gapped vision models like Ollama `llama3.2-vision` / `qwen2.5-vl` or high-throughput OCR providers), Aliwabot parses the image in seconds.
+2. **Instant Neural Vision Extraction**: Powered by advanced, air-gapped multimodal vision intelligence, Aliwabot deciphers messy handwriting, weathered delivery tickets, faded carbon copies, and low-light smartphone snaps in seconds—transforming raw camera photos into precision digital records with 100% on-premise privacy.
 3. **Structured Verification**: The engine extracts DO numbers, quantities, dates, serial tags, and line items, echoing them into the chat and saving them permanently to the operational ledger.
 4. **Interactive AI Tool (`ocr_extract`)**: Reply to any previously sent photo or PDF and ask: *"@Aliwabot extract the total cement volume and slump test rating from this docket"* $\rightarrow$ immediate structured answer.
 
@@ -384,7 +384,7 @@ Investing in Aliwabot delivers immediate, measurable bottom-line returns:
 
 #### B. Air-Gapped Private Enterprise Edition
 * **Target Audience**: Critical infrastructure, defense contractors, government-linked entities.
-* **Deployment**: 100% on-premise execution on local enterprise hardware with local neural models.
+* **Deployment**: 100% on-premise execution on local enterprise hardware with private, self-hosted neural intelligence.
 * **Pricing Structure**: **Enterprise license + customized integration & maintenance retainer**.
 
 ---
