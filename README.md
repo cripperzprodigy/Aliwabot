@@ -372,9 +372,20 @@ Aliwabot is built as an enterprise-grade, event-driven operational intelligence 
 
 <br/>
 
+![Aliwabot System Architecture and Neural Event Flow](assets/system_architecture_diagram.jpg)
+
+<br/>
+
+### 🔌 Modular Plugin Architecture & Event Hooks
+
+Aliwabot features an isolated plugin lifecycle allowing organizations to dynamically enable, disable, and scope operational modules (`!plugin enable/disable <name>`) per chat group or across the entire enterprise tenant:
+
 ![Aliwabot Modular Plugin and Event Architecture](assets/modular_plugin_architecture.jpg)
 
 <br/>
+
+<details>
+<summary><b>🔍 View Raw Technical Event Topology (Mermaid Specification)</b></summary>
 
 ```mermaid
 flowchart TB
@@ -428,6 +439,8 @@ flowchart TB
     Engine -->|Single-Response Operational Digest / Alerts| Gateway
     Gateway -->|Native WhatsApp Notifications| GroupChats
 ```
+
+</details>
 
 <p align="right"><a href="#top">⬆️ Back to Top</a></p>
 
